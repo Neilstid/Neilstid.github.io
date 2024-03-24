@@ -1,4 +1,25 @@
 # _config.yml
+title: Neil FARMER
+description: Neil Farmer CV
+baseurl: ""
+url: https://Neilstid.github.io
 
-title: "Jekyll Actions Demo"
 remote_theme: piazzai/cvless
+
+# site settings
+taglong: Neil Farmer CV
+tagshort: Neil Farmer CV
+
+# author settings
+author:
+  name: Neil Farmer
+  email: neil99.farmer@gmail.com
+photo: assets/files/photo.jpg
+
+# social media links
+social:
+  github: Neilstid
+  linkedin: neil-farmer-6869a3150
+
+# build settings
+permalink: pretty
