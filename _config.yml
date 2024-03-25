@@ -20,6 +20,8 @@ photo: assets/files/photo.jpg
 social:
   github: Neilstid
   linkedin: neil-farmer-6869a3150
+  orcid: 0009-0003-7775-0491
+  cv: assets/files/cv.pdf
 
 # build settings
 permalink: pretty
