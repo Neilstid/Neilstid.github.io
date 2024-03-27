@@ -27,6 +27,12 @@
       {% if site.social.orcid %}
       <a class="particles-icon" href="https://orcid.org/{{ site.social.orcid }}">{% include svg/orcid.svg %}</a>
       {% endif %}
+      {% if site.social.scholar %}
+      <a class="particles-icon" href="https://scholar.google.com/citations?user={{ site.social.scholar }}">{% include svg/google-scholar.svg %}</a>
+      {% endif %}
+      {% if site.social.researchgate %}
+      <a class="particles-icon" href="https://www.researchgate.net/profile/{{ site.social.researchgate }}">{% include svg/google-scholar.svg %}</a>
+      {% endif %}
       <a class="particles-icon" href="assets/files/cv.pdf">{% include svg/cv-circled.svg %}</a>
     </div>
   </div>
